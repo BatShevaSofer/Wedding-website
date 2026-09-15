@@ -1,0 +1,6 @@
+{
+  "name": "40 צעדים לבית שלנו",
+  "description": "אתר אינטראקטיבי, מרגש ויוקרתי למסע 40 יום עד החתונה ובניית הבית המשותף",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
